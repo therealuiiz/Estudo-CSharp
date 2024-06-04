@@ -1,0 +1,14 @@
+/Users/luiz/vscode/TiposDeDados2/bin/Debug/net8.0/TiposDeDados2
+/Users/luiz/vscode/TiposDeDados2/bin/Debug/net8.0/TiposDeDados2.deps.json
+/Users/luiz/vscode/TiposDeDados2/bin/Debug/net8.0/TiposDeDados2.runtimeconfig.json
+/Users/luiz/vscode/TiposDeDados2/bin/Debug/net8.0/TiposDeDados2.dll
+/Users/luiz/vscode/TiposDeDados2/bin/Debug/net8.0/TiposDeDados2.pdb
+/Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/TiposDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/TiposDeDados2.AssemblyInfoInputs.cache
+/Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/TiposDeDados2.AssemblyInfo.cs
+/Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/TiposDeDados2.csproj.CoreCompileInputs.cache
+/Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/TiposDeDados2.dll
+/Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/refint/TiposDeDados2.dll
+/Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/TiposDeDados2.pdb
+/Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/TiposDeDados2.genruntimeconfig.cache
+/Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/ref/TiposDeDados2.dll

@@ -12,3 +12,4 @@
 /Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/TiposDeDados2.pdb
 /Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/TiposDeDados2.genruntimeconfig.cache
 /Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/ref/TiposDeDados2.dll
+/Users/luiz/vscode/TiposDeDados2/obj/Debug/net8.0/TiposDeDados2.sourcelink.json

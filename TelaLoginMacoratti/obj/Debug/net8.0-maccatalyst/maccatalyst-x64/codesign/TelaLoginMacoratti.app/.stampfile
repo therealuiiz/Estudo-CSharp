@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/luiz/vscode/TelaLoginMacoratti/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Entitlements.xcent /Users/luiz/vscode/TelaLoginMacoratti/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/TelaLoginMacoratti.app

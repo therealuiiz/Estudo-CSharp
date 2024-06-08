@@ -29,7 +29,6 @@ Console.WriteLine(nome1);
 Console.WriteLine(ativa);
 Console.WriteLine(letra);
 
-Console.ReadLine();
 
 
 //Tipo dynamic apesar de semelhante ao tipo object ele é util para quando
@@ -47,7 +46,8 @@ Console.WriteLine(ativa2);
 Console.WriteLine(letra2);
 Console.WriteLine(ativa2);
 
-Console.Readline();
+
+
 
 
 

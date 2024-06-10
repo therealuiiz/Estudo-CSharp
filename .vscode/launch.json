@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        
+        {
+            "name": "C#: TiposDeDados1",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/TiposDeDados1/TiposDeDados1.csproj",
+            "launchConfigurationId": "TargetFramework=;TiposDeDados1"
+        },
+        {
+            "name": "C#: TiposDeDados4",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/TiposDeDados4/TiposDeDados4.csproj",
+            "launchConfigurationId": "TargetFramework=;TiposDeDados4"
+        }
+    ]
+}

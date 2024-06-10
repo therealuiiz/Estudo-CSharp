@@ -1,0 +1,15 @@
+/Users/luiz/vscode/NullableTypes/bin/Debug/net8.0/NullableTypes
+/Users/luiz/vscode/NullableTypes/bin/Debug/net8.0/NullableTypes.deps.json
+/Users/luiz/vscode/NullableTypes/bin/Debug/net8.0/NullableTypes.runtimeconfig.json
+/Users/luiz/vscode/NullableTypes/bin/Debug/net8.0/NullableTypes.dll
+/Users/luiz/vscode/NullableTypes/bin/Debug/net8.0/NullableTypes.pdb
+/Users/luiz/vscode/NullableTypes/obj/Debug/net8.0/NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luiz/vscode/NullableTypes/obj/Debug/net8.0/NullableTypes.AssemblyInfoInputs.cache
+/Users/luiz/vscode/NullableTypes/obj/Debug/net8.0/NullableTypes.AssemblyInfo.cs
+/Users/luiz/vscode/NullableTypes/obj/Debug/net8.0/NullableTypes.csproj.CoreCompileInputs.cache
+/Users/luiz/vscode/NullableTypes/obj/Debug/net8.0/NullableTypes.sourcelink.json
+/Users/luiz/vscode/NullableTypes/obj/Debug/net8.0/NullableTypes.dll
+/Users/luiz/vscode/NullableTypes/obj/Debug/net8.0/refint/NullableTypes.dll
+/Users/luiz/vscode/NullableTypes/obj/Debug/net8.0/NullableTypes.pdb
+/Users/luiz/vscode/NullableTypes/obj/Debug/net8.0/NullableTypes.genruntimeconfig.cache
+/Users/luiz/vscode/NullableTypes/obj/Debug/net8.0/ref/NullableTypes.dll

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios", "Exercicios\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuApp3", "MeuApp3\MeuApp3.csproj", "{35EE19B0-80E9-4BC7-BF13-2A005E4EA82D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes", "NullableTypes\NullableTypes.csproj", "{BF853AA2-6920-443A-89D5-F342676E4191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identificadores", "Identificadores\Identificadores.csproj", "{2833CEA1-8DA2-4839-83F3-33773582BF64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +62,13 @@ Global
 		{35EE19B0-80E9-4BC7-BF13-2A005E4EA82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35EE19B0-80E9-4BC7-BF13-2A005E4EA82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35EE19B0-80E9-4BC7-BF13-2A005E4EA82D}.Release|Any CPU.Build.0 = Release|Any CPU
-																																																																																																																			EndGlobalSection
+		{BF853AA2-6920-443A-89D5-F342676E4191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF853AA2-6920-443A-89D5-F342676E4191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF853AA2-6920-443A-89D5-F342676E4191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF853AA2-6920-443A-89D5-F342676E4191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2833CEA1-8DA2-4839-83F3-33773582BF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2833CEA1-8DA2-4839-83F3-33773582BF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2833CEA1-8DA2-4839-83F3-33773582BF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2833CEA1-8DA2-4839-83F3-33773582BF64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 EndGlobal
